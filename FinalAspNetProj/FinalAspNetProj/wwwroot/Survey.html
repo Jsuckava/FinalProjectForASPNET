@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Satisfaction Survey</title>
+    <link rel="stylesheet" href="SuveryAD.css">
+</head>
+<body>
+
+    <div class="main" style="height: 100vh;">
+        <div class="topbar">
+            <h1>Customer Satisfaction Survey</h1>
+        </div>
+        <div class="dashboard">
+            <div class="card card-full-width">
+                <h3 id="survey-main-title">Please rate your experience</h3>
+
+                <p id="survey-description-text" class="survey-description-style"></p>
+
+                <form id="survey-form">
+
+                    <div class="form-group">
+                        <label for="respondent-name">Your Name (Optional):</label>
+                        <input type="text" id="respondent-name" name="respondent-name">
+                    </div>
+
+                    <div id="survey-questions-container">
+                        <p>Loading survey...</p>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="survey-comments">Additional Comments (Optional):</label>
+                        <textarea id="survey-comments" rows="4"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="checkbox" id="survey-consent" required>
+                        <label for="survey-consent">I consent to my feedback being used for service improvement.</label>
+                    </div>
+
+                    <button type="submit" class="primary">Submit Survey</button>
+                    <p id="survey-message" style="margin-top: 15px;"></p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="survey.js"></script>
+</body>
+</html>

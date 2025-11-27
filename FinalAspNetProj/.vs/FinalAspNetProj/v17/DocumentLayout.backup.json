@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\homepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\homepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\surveyadmanjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\surveyadmanjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\surveyadminmanager.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\surveyadminmanager.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\surveyadjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\surveyadjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\suveryad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\suveryad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\surveyanalyticsdashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\surveyanalyticsdashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\survey.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\survey.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\surveypdf_conv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\surveypdf_conv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\downloadablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\downloadablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\authorizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\authorizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\surveydashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\surveydashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\dto\\surveyadmineditordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\dto\\surveyadmineditordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\surveyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\surveyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\surveyquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\surveyquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\surveyadmineditormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\surveyadmineditormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\controllers\\surveyadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\controllers\\surveyadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\profiles\\mapper_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\profiles\\mapper_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\survey.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\survey.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\models\\downloadablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\models\\downloadablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\adminpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\adminpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\adminpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\adminpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\migrations\\aspnetfpdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\migrations\\aspnetfpdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\migrations\\20251127055618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\migrations\\20251127055618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\data\\aspnetfpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\data\\aspnetfpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\wwwroot\\loginpagejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\wwwroot\\loginpagejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|c:\\users\\carmela\\source\\repos\\finalaspnetproj\\finalaspnetproj\\finalaspnetproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6A0390F-BADE-487A-A0A5-E5A022AED76B}|FinalAspNetProj\\FinalAspNetProj.csproj|solutionrelative:finalaspnetproj\\finalaspnetproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SurveyAdminManager.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAdminManager.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\SurveyAdminManager.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAdminManager.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\SurveyAdminManager.html",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwHIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-04T14:46:35.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SurveyAnalyticsDashboard.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAnalyticsDashboard.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\SurveyAnalyticsDashboard.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAnalyticsDashboard.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\SurveyAnalyticsDashboard.html",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-04T13:21:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "survey.js",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\survey.js",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\survey.js",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\survey.js",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\survey.js",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv1gAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T13:20:00.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\HomePage.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\HomePage.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\HomePage.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\HomePage.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-07T03:40:28.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SurveyAdManJS.js",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAdManJS.js",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\SurveyAdManJS.js",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyAdManJS.js",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\SurveyAdManJS.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T14:47:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuveryAD.css",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SuveryAD.css",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\SuveryAD.css",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SuveryAD.css",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\SuveryAD.css",
+              "ViewState": "AgIAAI8CAAAAAAAAAAAwwLYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T14:39:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyADJS.js",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyADJS.js",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\SurveyADJS.js",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\SurveyADJS.js",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\SurveyADJS.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T13:20:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SurveyPDF_Conv.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\SurveyPDF_Conv.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\SurveyPDF_Conv.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\SurveyPDF_Conv.cs",
+              "RelativeToolTip": "FinalAspNetProj\\SurveyPDF_Conv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:11:13.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Program.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Program.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Program.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:43:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\appsettings.json",
+              "RelativeToolTip": "FinalAspNetProj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T12:44:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinalAspNetProj\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T13:35:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv10AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:21:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DownloadableFile.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\DownloadableFile.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\DownloadableFile.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\DownloadableFile.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\DownloadableFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:06:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorizationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\AuthorizationDTO.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\AuthorizationDTO.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\AuthorizationDTO.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\AuthorizationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:00:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SurveyDashDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyDashDTO.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\SurveyDashDTO.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyDashDTO.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\SurveyDashDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:20:39.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SurveyAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyAnalysis.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\SurveyAnalysis.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyAnalysis.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\SurveyAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:06:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Survey.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\Survey.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\Survey.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\Survey.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\Survey.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:06:55.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SurveyAdminEditorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyAdminEditorDTO.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\DTO\\SurveyAdminEditorDTO.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\DTO\\SurveyAdminEditorDTO.cs",
+              "RelativeToolTip": "FinalAspNetProj\\DTO\\SurveyAdminEditorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:57:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SurveyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyResponse.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\SurveyResponse.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyResponse.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\SurveyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SurveyQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyQuestion.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\SurveyQuestion.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyQuestion.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\SurveyQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SurveyAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyAnalysis.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\SurveyAnalysis.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyAnalysis.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\SurveyAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:34:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SurveyAdminEditorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyAdminEditorModel.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\SurveyAdminEditorModel.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\SurveyAdminEditorModel.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\SurveyAdminEditorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:58:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Survey.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\Survey.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\Survey.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\Survey.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\Survey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwIIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:55:53.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SurveyAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\SurveyAdmin.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Controllers\\SurveyAdmin.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\SurveyAdmin.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Controllers\\SurveyAdmin.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADgv24AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:41:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Mapper_Library.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Profiles\\Mapper_Library.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Profiles\\Mapper_Library.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Profiles\\Mapper_Library.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Profiles\\Mapper_Library.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:55:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomePage.css",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\HomePage.css",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\HomePage.css",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\HomePage.css",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\HomePage.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T03:40:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Survey.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\Survey.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\Survey.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\Survey.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\Survey.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-04T13:37:22.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251127082803_AddCommentsColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Migrations\\20251127082803_AddCommentsColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:28:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DownloadableFile.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\DownloadableFile.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Models\\DownloadableFile.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Models\\DownloadableFile.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Models\\DownloadableFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:46.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251127075026_AddCommentsToSurvey.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Migrations\\20251127075026_AddCommentsToSurvey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:50:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:01:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminPage.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPage.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\AdminPage.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPage.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\AdminPage.html",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-04T13:22:28.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminPageStyle.css",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPageStyle.css",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\AdminPageStyle.css",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPageStyle.css",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\AdminPageStyle.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T13:23:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminPage.js",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPage.js",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\AdminPage.js",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\AdminPage.js",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\AdminPage.js",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T13:31:43.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AspnetfpDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\AspnetfpDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Migrations\\AspnetfpDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\AspnetfpDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Migrations\\AspnetfpDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAADwv/ABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:02:36.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251127055618_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127055618_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Migrations\\20251127055618_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251127055618_InitialCreate.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Migrations\\20251127055618_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:56:18.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginPage.html",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\LoginPage.html",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\LoginPage.html",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\LoginPage.html",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\LoginPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-06T16:02:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AspnetfpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Data\\AspnetfpDbContext.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Data\\AspnetfpDbContext.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Data\\AspnetfpDbContext.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Data\\AspnetfpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:11:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginPageJS.js",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\LoginPageJS.js",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\wwwroot\\LoginPageJS.js",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\wwwroot\\LoginPageJS.js",
+              "RelativeToolTip": "FinalAspNetProj\\wwwroot\\LoginPageJS.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-06T16:03:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251106172711_FinalSchemaSync.cs",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs",
+              "RelativeToolTip": "FinalAspNetProj\\Migrations\\20251106172711_FinalSchemaSync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:27:12.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FinalAspNetProj.csproj",
+              "DocumentMoniker": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\FinalAspNetProj.csproj",
+              "RelativeDocumentMoniker": "FinalAspNetProj\\FinalAspNetProj.csproj",
+              "ToolTip": "C:\\Users\\Carmela\\source\\repos\\FinalAspNetProj\\FinalAspNetProj\\FinalAspNetProj.csproj",
+              "RelativeToolTip": "FinalAspNetProj\\FinalAspNetProj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T12:46:16.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

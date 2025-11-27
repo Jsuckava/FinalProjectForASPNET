@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Welcome - Provide Feedback</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="HomePage.css">
+</head>
+<body>
+
+    <div class="landing-container">
+        <div class="landing-card">
+            <h1>Thank You for Visiting!</h1>
+            <p>Your honest feedback is crucial for improving our services. Please take a moment to fill out our satisfaction survey.</p>
+
+            <div class="action-buttons">
+                <a href="survey.html" class="primary">Start Survey Now</a>
+            </div>
+
+            <div class="qr-section">
+                <h3>Scan to Start the Survey on Mobile</h3>
+                <img id="qrcode-image" src="" alt="QR Code to Survey Page" />
+                <p style="font-size: 0.9rem; color: #aaa; margin-top: 10px;">(This code redirects to: survey.html)</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const surveyUrl = window.location.origin + '/survey.html';
+            const qrCodeElement = document.getElementById('qrcode-image');
+
+            const qrApiUrl = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(surveyUrl)}`;
+
+            qrCodeElement.src = qrApiUrl;
+        });
+    </script>
+</body>
+</html>

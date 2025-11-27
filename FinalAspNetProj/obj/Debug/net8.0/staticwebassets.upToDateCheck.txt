@@ -1,0 +1,14 @@
+wwwroot\AdminPage.html
+wwwroot\AdminPage.js
+wwwroot\AdminPageStyle.css
+wwwroot\LoginPage.html
+wwwroot\LoginPageJS.js
+wwwroot\survey.js
+wwwroot\Survey.html
+wwwroot\SurveyADJS.js
+wwwroot\SurveyAdManJS.js
+wwwroot\SurveyAdminManager.html
+wwwroot\SurveyAnalyticsDashboard.html
+wwwroot\SuveryAD.css
+wwwroot\HomePage.html
+wwwroot\HomePage.css

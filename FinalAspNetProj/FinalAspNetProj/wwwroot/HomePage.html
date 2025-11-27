@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Survey Analytics</title>
+    <link rel="stylesheet" href="HomePage.css" />
+</head>
+<body>
+
+    <nav class="navbar">
+        <h1>Survey Analytics</h1>
+        <div class="nav-links">
+            <button class="secondary" style="padding: 0.5rem 1rem; font-size: 0.9rem;"><a href="LoginPage.html">Admin Login</a></button>
+        </div>
+    </nav>
+    <header class="hero">
+        <h1>With your feedback, everyone is happy ;></h1>
+        <p>Your thoughts and opinion matter.</p>
+        <div class="cta-buttons">
+            <button class="primary" onclick="window.location.href='Survey.html'">Take Survey Now</button>
+        </div>
+    </header>
+    <section class="stats-section">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <h2 id="total-responses">0</h2>
+                <p>Responses Collected</p>
+            </div>
+            <div class="stat-item">
+                <h2 id="completion-rate">0</h2>
+                <p>Completion Rate</p>
+            </div>
+            <div class="stat-item">
+                <h2>24/7</h2>
+                <p>Active Monitoring</p>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="SurveyADJS.js"></script>
+</body>
+</html>

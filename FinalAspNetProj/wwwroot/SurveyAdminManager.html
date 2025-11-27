@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Surveys</title>
+    <link rel="stylesheet" href="SuveryAD.css">
+</head>
+<body>
+    <div class="wrapper">
+        <aside class="sidebar">
+            <h2>Admin Panel</h2>
+            <nav>
+                <a href="AdminPage.html">Admin Home</a>
+                <a href="SurveyAnalyticsDashboard.html">Survey Analytics Dashboard</a>
+                <a href="#" class="active">Manage Surveys</a>
+                <a href="survey.html">Go to Survey</a>
+            </nav>
+        </aside>
+
+        <div class="main">
+            <div class="topbar">
+                <h1>Survey Management</h1>
+            </div>
+
+            <div class="dashboard">
+                <div class="card card-full-width">
+                    <div class="chart-header" style="margin-bottom: 0;">
+                        <h3>Surveys</h3>
+                    </div>
+
+                    <table id="survey-list-table" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+                        <thead>
+                            <tr style="background: var(--bg-dark-primary);">
+                                <th style="padding: 12px; text-align: left; border-bottom: 1px solid var(--border-color);">Title</th>
+                                <th style="padding: 12px; text-align: left; border-bottom: 1px solid var(--border-color);">Questions</th>
+                                <th style="padding: 12px; text-align: left; border-bottom: 1px solid var(--border-color);">Status</th>
+                                <th style="padding: 12px; text-align: center; border-bottom: 1px solid var(--border-color);">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="4" style="padding: 20px; text-align: center; color: #aaa;">Loading surveys...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="primary" id="open-add-survey-modal" style="
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        z-index: 500;
+        padding: 1rem 2rem;
+        font-size: 1rem;
+        box-shadow: var(--shadow);">
+        + New Survey
+    </button>
+
+    <div class="modal-backdrop" id="survey-modal">
+        <div class="modal-content" style="max-width: 600px;">
+            <span class="modal-close" id="close-survey-modal">&times;</span>
+            <h2>Create New Survey</h2>
+            <form id="survey-edit-form">
+                <input type="hidden" id="survey-id">
+
+                <div class="form-group">
+                    <label for="survey-title">Survey Title</label>
+                    <input type="text" id="survey-title" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="survey-description">Description (Optional)</label>
+                    <textarea id="survey-description" rows="3"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="survey-is-active">Status</label>
+                    <select id="survey-is-active">
+                        <option value="true">Active</option>
+                        <option value="false">Draft</option>
+                    </select>
+                </div>
+
+                <div class="card" style="padding: 1.5rem; border: 1px dashed var(--primary-color);">
+                    <h3>Questions List</h3>
+                    <div id="questions-edit-container">
+                        <p style="color: #aaa; margin-bottom: 1rem;">No questions added yet.</p>
+                    </div>
+                    <button type="button" class="primary" id="add-question-btn" style="width: auto; margin-top: 1rem;">+ Add Question</button>
+                </div>
+
+                <div class="form-actions" style="display: flex; justify-content: flex-end; gap: 10px;">
+                    <button type="button" class="delete" id="cancel-edit-btn">Cancel</button>
+                    <button type="submit" class="success" id="save-survey-btn">Save Survey</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="SurveyAdManJS.js"></script>
+</body>
+</html>
